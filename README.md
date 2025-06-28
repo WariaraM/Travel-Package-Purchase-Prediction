@@ -70,7 +70,7 @@ To build a classification model that can:
 ## 📎 Notebook
 
 View the full notebook for detailed EDA, modeling, and conclusions:  
-[`Travel-Package-Purchase-Prediction`](Travel-Package-Purchase-Prediction)
+[`Travel-Package-Purchase-Prediction.ipynb`](Travel-Package-Purchase-Prediction.ipynb)
 
 ---
 
